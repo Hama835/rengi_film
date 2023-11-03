@@ -1,0 +1,28 @@
+!! ⚠️ PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING ⚠️ !!
+Dart Code extension: 3.77.20231103
+Flutter extension: 3.76.0 (not activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: mac 1.84.0
+
+
+Logging Categories:
+    FlutterDaemon
+
+Fri Nov 03 2023 [22:08:19 GMT+0300 (Arabian Standard Time)] Log file started
+[10:08:19 PM] [FlutterDaemon] [Info] Spawning /Users/macbookshop/Documents/development/flutter/bin/flutter with args ["daemon"]
+[10:08:19 PM] [FlutterDaemon] [Info] ..  in /Users/macbookshop/Documents/development/flutter
+[10:08:19 PM] [FlutterDaemon] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code","FLUTTER_ROOT":"/Users/macbookshop/Documents/development/flutter"}}
+[10:08:19 PM] [FlutterDaemon] [Info]     PID: 29567
+[10:08:20 PM] [FlutterDaemon] [Info] <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":30315}}]
+[10:08:20 PM] [FlutterDaemon] [Info] ==> [{"id":"1","method":"device.enable"}]
+[10:08:20 PM] [FlutterDaemon] [Info] ==> [{"id":"2","method":"emulator.getEmulators"}]
+[10:08:22 PM] [FlutterDaemon] [Info] <== [{"event":"daemon.logMessage","params":{"level":"status","message":"Starting device daemon..."}}]
+[10:08:23 PM] [FlutterDaemon] [Info] <== [{"id":"1"}]
+[10:08:23 PM] [FlutterDaemon] [Info] <== [{"id":"2","result":[{"id":"apple_ios_simulator","name":"iOS Simulator","category":"mobile","platformType":"ios"},{"id":"Galaxy_S23_Ultra_API_33","name":"Galaxy S23 Ultra API 33","category":"mobile","platformType":"android"},{"id":"Resizable_API_33","name":"Resizable API 33","category":"mobile","platformType":"android"},{"id":"galaxy-A11_API_33","name":"galaxy-A11 API 33","category":"mobile","platformType":"android"}]}]
+[10:08:26 PM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"AWCXUT3A08033355","name":"ALI NX1","platform":"android-arm64","emulator":false,"category":"mobile","platformType":"android","ephemeral":true,"emulatorId":null,"sdk":"Android 13 (API 33)","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":true,"fastStart":true,"flutterExit":true,"hardwareRendering":true,"startPaused":true}}}]
+[10:08:26 PM] [FlutterDaemon] [Info] ==> [{"id":"3","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"/Users/macbookshop/Downloads/rengi_filim"}}]
+[10:08:26 PM] [FlutterDaemon] [Info] <== [{"id":"3","result":{"platforms":["linux","macos","windows","ios","android","web"]}}]
+[10:08:27 PM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"macos","name":"macOS","platform":"darwin","emulator":false,"category":"desktop","platformType":"macos","ephemeral":false,"emulatorId":null,"sdk":"macOS 13.3.1 22E772610a darwin-x64","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":true,"hardwareRendering":true,"startPaused":true}}}]
+[10:08:29 PM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"chrome","name":"Chrome","platform":"web-javascript","emulator":false,"category":"web","platformType":"web","ephemeral":false,"emulatorId":null,"sdk":"Google Chrome 118.0.5993.117","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":false,"hardwareRendering":true,"startPaused":true}}}]

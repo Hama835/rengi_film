@@ -1,0 +1,607 @@
+[9:51:07 PM]: Spawning /Users/macbookshop/Documents/development/flutter/bin/flutter with args ["run","--machine","--start-paused","-d","AWCXUT3A08033355","--devtools-server-address","http://127.0.0.1:9100/","--target","lib/main.dart"]
+[9:51:07 PM]: ..  in /Users/macbookshop/Downloads/rengi_filim
+[9:51:07 PM]: ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code","FLUTTER_ROOT":"/Users/macbookshop/Documents/development/flutter"}}
+[9:51:07 PM]: PID: 26724
+[9:51:09 PM]: <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":26725}}]
+[9:51:10 PM]: <== [{"event":"app.start","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","deviceId":"AWCXUT3A08033355","directory":"/Users/macbookshop/Downloads/rengi_filim","supportsRestart":true,"launchMode":"run","mode":"debug"}}]
+[9:51:10 PM]: <== Launching lib/main.dart on ALI NX1 in debug mode...
+[9:51:10 PM]: <== [{"event":"app.progress","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","id":"0","progressId":null,"message":"Running Gradle task 'assembleDebug'...","finished":false}}]
+[9:51:43 PM]: <== [{"event":"app.progress","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","id":"0","progressId":null,"finished":true}}]
+[9:51:44 PM]: <== ✓  Built build/app/outputs/flutter-apk/app-debug.apk.
+[9:51:44 PM]: <== [{"event":"app.progress","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","id":"1","progressId":null,"message":"Installing build/app/outputs/flutter-apk/app-debug.apk...","finished":false}}]
+[9:51:49 PM]: <== [{"event":"app.progress","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","id":"1","progressId":null,"finished":true}}]
+[9:51:49 PM]: <== W/FlutterAnimationAdvance(28930): FlutterAnimationAdvance getInstance()
+[9:51:49 PM]: <== W/FlutterAnimationAdvance(28970): FlutterAnimationAdvance getInstance()
+[9:51:49 PM]: <== W/FlutterAnimationAdvance(23409): FlutterAnimationAdvance getInstance()
+[9:51:49 PM]: <== W/FlutterAnimationAdvance(29051): FlutterAnimationAdvance getInstance()
+[9:51:50 PM]: <== W/FlutterAnimationAdvance(29109): FlutterAnimationAdvance getInstance()
+[9:51:50 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:50 PM]: <== I/ple.rengi_filim(23409): Compiler allocated 5743KB to compile void android.view.ViewRootImpl.performTraversals()
+[9:51:50 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:50 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:50 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== [{"event":"app.debugPort","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","port":50391,"wsUri":"ws://127.0.0.1:50391/w0m3UeEMlqE=/ws","baseUri":"file:///data/user/0/com.example.rengi_filim/code_cache/rengi_filimZOGUWI/rengi_filim/"}}]
+[9:51:51 PM]: <== [{"event":"app.progress","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","id":"2","progressId":null,"message":"Syncing files to device ALI NX1...","finished":false}}]
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== [{"event":"app.progress","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","id":"2","progressId":null,"finished":true}}]
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== [{"event":"app.started","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b"}}]
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Localization initialized[0m
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Start[0m
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Init state[0m
+[9:51:51 PM]: <== I/flutter (23409): [32m[🌎 Easy Localization] [INFO] Saved locale loaded fa[0m
+[9:51:51 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Build[0m
+[9:51:51 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
+[9:51:51 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Load Localization Delegate[0m
+[9:51:51 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Load asset from assets/translations[0m
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:51 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:51 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:52 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:52 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: ==> [{"id":"1","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== W/ViewTreeObserver(23409): onPreDraw return false io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@71b04c1
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== I/AGPService(23409): AGPServiceClient ConnectLocked
+[9:51:53 PM]: <== I/SurfaceSyncer(23409): addSyncableSurface: add to mPendingSyncs = {173705977}
+[9:51:53 PM]: <== I/HwForceDarkManager(23409): setAllowedHwForceDark:false package:com.example.rengi_filim mCurrProcessState:0 mIsPackageNameChange:false hwForceDarkState:0 isViewAllowedForceDark:true isLastHonorForceDark:false
+[9:51:53 PM]: <== I/SurfaceSyncer(23409): onBufferReady: remove from mPendingSyncs = {}
+[9:51:53 PM]: <== I/SurfaceSyncer(23409): checkIfSyncIsComplete: mSyncId = 0 mSyncReady = false mPendingSyncs = 0 mMergedSyncSets = 0
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:51:53 PM]: <== W/Parcel  (23409): Expecting binder but got null!
+[9:51:53 PM]: <== I/SurfaceSyncer(23409): markSyncReady: mSyncId = 0
+[9:51:53 PM]: <== I/SurfaceSyncer(23409): checkIfSyncIsComplete: mSyncId = 0 mSyncReady = true mPendingSyncs = 0 mMergedSyncSets = 0
+[9:51:53 PM]: <== I/SurfaceSyncer(23409): checkIfSyncIsComplete: mSyncRequestCompleteCallback.accept:
+[9:51:53 PM]: <== I/HwViewRootImpl(23409): removeInvalidNode jank list is null
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:51:53 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6473410
+[9:51:53 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646bd90 count: 4
+[9:51:53 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6474490
+[9:51:53 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6472990
+[9:51:53 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646a290 count: 2
+[9:51:53 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646a290
+[9:51:53 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6469150 count: 2
+[9:51:53 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6469150
+[9:51:53 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646bd90
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:51:53 PM]: <== I/VRI[MainActivity](23409): send MSG_WINDOW_FOCUS_CHANGED msg
+[9:51:53 PM]: <== D/DecorView(23409): showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+[9:51:53 PM]: <== W/InputMethodManager(23409): startInputReason = 1
+[9:51:53 PM]: <== W/InputMethodManager(23409): startInputReason = 6
+[9:51:53 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a646d650
+[9:51:53 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a646ba90
+[9:51:53 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a646df50
+[9:51:53 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6472990 count: 2
+[9:51:53 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6472990
+[9:51:53 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6474490 count: 2
+[9:51:53 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6474490
+[9:51:53 PM]: <== I/PhoneWindow(23409): REFRESH_STATUS_BAR_ATTRS OnContentApplyWindowInsetsListener has SYSTEM_UI_LAYOUT_FLAGS
+[9:51:53 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:51:53 PM]: <== [{"id":"1","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:51:53 PM]: ==> [{"id":"2","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:51:53 PM]: <== [{"id":"2","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:51:54 PM]: <== I/AwareBitmapCacher(23409): init lrucache size: 2097152 pid=23409
+[9:51:54 PM]: <== V/Resource(23409): printErrorResource, maybe not an error because module has entative action to load resource.
+[9:51:56 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a647d310
+[9:51:56 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a646fd50
+[9:51:56 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646df50 count: 2
+[9:51:56 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646df50
+[9:51:56 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646ba90 count: 2
+[9:51:56 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646ba90
+[9:51:56 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646d650 count: 2
+[9:51:56 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646d650
+[9:51:56 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6479350
+[9:51:56 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646fd50 count: 2
+[9:51:56 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646fd50
+[9:51:56 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a647d310 count: 2
+[9:51:56 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a647d310
+[9:51:56 PM]: <== E/RtgSchedIpcFile(23409): RtgSchedIpcFile failed to open /proc/23409/rtg
+[9:51:56 PM]: <== I/RmeSchedManager(23409): init Rme, version is: v1.0
+[9:51:56 PM]: <== E/RtgSchedIpcFile(23409): setCommandByIoctl not opened
+[9:51:56 PM]: <== D/RtgSched(23409): resetRtgSchedHandle failed enable:0
+[9:51:56 PM]: <== I/VRI[MainActivity](23409): send MSG_WINDOW_FOCUS_CHANGED msg
+[9:51:56 PM]: <== I/ViewRootImpl(23409): focus window changed, set pointer icon to default
+[9:51:56 PM]: <== D/DecorView(23409): showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+[9:51:58 PM]: <== E/RtgSchedIpcFile(23409): RtgSchedIpcFile failed to open /proc/23409/rtg
+[9:51:58 PM]: <== I/RmeSchedManager(23409): init Rme, version is: v1.0
+[9:51:58 PM]: <== E/RtgSchedIpcFile(23409): setCommandByIoctl not opened
+[9:51:58 PM]: <== D/RtgSched(23409): resetRtgSchedHandle failed enable:1
+[9:51:58 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a647cd10
+[9:51:58 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64704d0
+[9:51:58 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a647b150
+[9:51:58 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6479350 count: 2
+[9:51:58 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6479350
+[9:51:58 PM]: <== I/VRI[MainActivity](23409): send MSG_WINDOW_FOCUS_CHANGED msg
+[9:51:58 PM]: <== D/DecorView(23409): showOrHideHighlightView: hasFocus=true; winMode=1; isMrgNull=true
+[9:51:58 PM]: <== W/InputMethodManager(23409): startInputReason = 1
+[9:51:59 PM]: <== I/Hwaps   (23409): APS: EventAnalyzed: initAPS: version is 11.0.0.4
+[9:51:59 PM]: <== D/Hwaps   (23409): Fpsrequest create,type:EXACTLY_IDENTIFY
+[9:51:59 PM]: <== D/Hwaps   (23409): Fpsrequest create,type:EXACTLY_IDENTIFY
+[9:51:59 PM]: <== D/Hwaps   (23409): Fpsrequest create,type:OPENGL_SETTING
+[9:51:59 PM]: <== D/Hwaps   (23409): FpsController create
+[9:51:59 PM]: <== D/Hwaps   (23409): APS: EventAnalyzed: reInitFpsPara :mBaseFps = 120; mMaxFps = 120
+[9:51:59 PM]: <== D/Hwaps   (23409): APS: EventAnalyzed: registerCallbackInApsManagerService, mPkgName:com.example.rengi_filim; result = false
+[9:51:59 PM]: <== W/HwApsManager(23409): HwApsManagerService, registerCallback, start !
+[9:51:59 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:51:59 PM]: ==> [{"id":"3","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:51:59 PM]: <== [{"id":"3","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:51:59 PM]: ==> [{"id":"4","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:51:59 PM]: <== [{"id":"4","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:52:00 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:01 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:01 PM]: ==> [{"id":"5","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:52:01 PM]: <== [{"id":"5","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:52:01 PM]: ==> [{"id":"6","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:52:01 PM]: <== [{"id":"6","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:52:01 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:03 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:03 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a646bd90
+[9:52:03 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6473410 count: 4
+[9:52:03 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6472990
+[9:52:03 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6474490
+[9:52:03 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a646df50
+[9:52:03 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a647cd10 count: 2
+[9:52:03 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a647cd10
+[9:52:03 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a647b150 count: 2
+[9:52:03 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a647b150
+[9:52:03 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64704d0 count: 2
+[9:52:03 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64704d0
+[9:52:03 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:52:03 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6473410
+[9:52:03 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:04 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:04 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:05 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:06 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:07 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:07 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:09 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:09 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6474b50
+[9:52:09 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646bd90 count: 4
+[9:52:09 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b45d0
+[9:52:09 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a649ed90
+[9:52:09 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b1c90
+[9:52:09 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6472990 count: 2
+[9:52:09 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6472990
+[9:52:09 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646df50 count: 2
+[9:52:09 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646df50
+[9:52:09 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6474490 count: 2
+[9:52:09 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6474490
+[9:52:09 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646bd90
+[9:52:09 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:52:09 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:09 PM]: <== W/FinalizerDaemon(23409): type=1400 audit(0.0:26302): avc: denied { getopt } for path="/dev/socket/usap_pool_primary" scontext=u:r:untrusted_app:s0:c194,c256,c512,c768 tcontext=u:r:zygote:s0 tclass=unix_stream_socket permissive=0
+[9:52:10 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:10 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:10 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:11 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6474490
+[9:52:11 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6474b50 count: 4
+[9:52:11 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a646df50
+[9:52:11 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6472990
+[9:52:11 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b3250
+[9:52:11 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b45d0 count: 2
+[9:52:11 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b45d0
+[9:52:11 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b1c90 count: 2
+[9:52:11 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b1c90
+[9:52:11 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a649ed90 count: 2
+[9:52:11 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a649ed90
+[9:52:11 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6474b50
+[9:52:11 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:52:11 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:11 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:12 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a649ed90
+[9:52:12 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6474490 count: 4
+[9:52:12 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b1c90
+[9:52:12 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b45d0
+[9:52:12 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b1090
+[9:52:12 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646df50 count: 2
+[9:52:12 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646df50
+[9:52:12 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b3250 count: 2
+[9:52:12 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b3250
+[9:52:12 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6472990 count: 2
+[9:52:12 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6472990
+[9:52:12 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6474490
+[9:52:12 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:52:12 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:12 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:13 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:13 PM]: ==> [{"id":"7","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:52:13 PM]: <== [{"id":"7","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:52:13 PM]: ==> [{"id":"8","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:52:13 PM]: <== [{"id":"8","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:52:14 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:52:39 PM]: <== V/InputMethodManager(23409): dispatchInputEvent
+[9:52:41 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:09 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:14 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:14 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a6472990
+[9:55:14 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a649ed90 count: 4
+[9:55:14 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a646df50
+[9:55:14 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b3190
+[9:55:14 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b1e10
+[9:55:14 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b1c90 count: 2
+[9:55:14 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b1c90
+[9:55:14 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b1090 count: 2
+[9:55:14 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b1090
+[9:55:14 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b45d0 count: 2
+[9:55:14 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b45d0
+[9:55:14 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a649ed90
+[9:55:14 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:55:14 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:15 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:22 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:22 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b45d0
+[9:55:22 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a6472990 count: 4
+[9:55:22 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b1090
+[9:55:22 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b1c90
+[9:55:22 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a648c910
+[9:55:22 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646df50 count: 2
+[9:55:22 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646df50
+[9:55:22 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b1e10 count: 2
+[9:55:22 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b1e10
+[9:55:22 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b3190 count: 2
+[9:55:22 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b3190
+[9:55:22 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a6472990
+[9:55:22 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:55:22 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:23 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:24 PM]: ==> [{"id":"9","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:55:24 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:24 PM]: ==> [{"id":"10","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:55:24 PM]: ==> [{"id":"11","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:55:24 PM]: <== [{"id":"9","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:55:24 PM]: <== [{"id":"10","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:55:24 PM]: ==> [{"id":"12","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:55:24 PM]: ==> [{"id":"13","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:55:24 PM]: <== [{"id":"11","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:55:24 PM]: ==> [{"id":"14","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:55:24 PM]: <== [{"id":"12","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:55:24 PM]: <== [{"id":"13","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:55:24 PM]: <== [{"id":"14","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:55:26 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Load asset from assets/translations[0m
+[9:55:26 PM]: <== I/flutter (23409): [32m[🌎 Easy Localization] [INFO] Locale en changed[0m
+[9:55:26 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Build[0m
+[9:55:26 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Init Localization Delegate[0m
+[9:55:26 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Init provider[0m
+[9:55:26 PM]: <== I/flutter (23409): [90m[🌎 Easy Localization] [DEBUG] Load Localization Delegate[0m
+[9:55:26 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:26 PM]: ==> [{"id":"15","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:55:26 PM]: ==> [{"id":"16","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:55:26 PM]: ==> [{"id":"17","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:55:26 PM]: <== I/flutter (23409): [32m[🌎 Easy Localization] [INFO] Locale en saved[0m
+[9:55:26 PM]: <== [{"id":"15","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:55:26 PM]: ==> [{"id":"18","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:55:26 PM]: <== [{"id":"16","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:55:26 PM]: ==> [{"id":"19","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:55:26 PM]: <== [{"id":"17","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:55:26 PM]: ==> [{"id":"20","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:55:26 PM]: ==> [{"id":"21","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:55:26 PM]: ==> [{"id":"22","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:55:26 PM]: ==> [{"id":"23","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.getSelectedSummaryWidget","params":{"previousSelectionId":null,"objectGroup":"my-group"}}}]
+[9:55:26 PM]: <== [{"id":"18","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:55:26 PM]: <== [{"id":"19","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:55:26 PM]: <== [{"id":"20","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:55:26 PM]: <== [{"id":"21","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:55:26 PM]: <== [{"id":"22","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:55:26 PM]: <== [{"id":"23","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.getSelectedSummaryWidget"}}]
+[9:55:26 PM]: ==> [{"id":"24","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:55:26 PM]: ==> [{"id":"25","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:55:26 PM]: ==> [{"id":"26","method":"app.callServiceExtension","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b","methodName":"ext.flutter.inspector.disposeGroup","params":{"objectGroup":"my-group"}}}]
+[9:55:26 PM]: <== [{"id":"24","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:55:26 PM]: <== [{"id":"25","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:55:26 PM]: <== [{"id":"26","result":{"result":null,"type":"_extensionType","method":"ext.flutter.inspector.disposeGroup"}}]
+[9:55:27 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:29 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:29 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64a3a10
+[9:55:29 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b45d0 count: 4
+[9:55:29 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a646df50
+[9:55:29 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b1e10
+[9:55:29 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b3190
+[9:55:29 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b1090 count: 2
+[9:55:29 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b1090
+[9:55:29 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a648c910 count: 2
+[9:55:29 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a648c910
+[9:55:29 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b1c90 count: 2
+[9:55:29 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b1c90
+[9:55:29 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b45d0
+[9:55:29 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:55:29 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:31 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[9:55:31 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b1c90
+[9:55:31 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64a3a10 count: 4
+[9:55:31 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a648c910
+[9:55:31 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b1090
+[9:55:31 PM]: <== I/SurfaceControl(23409): SurfaceControl 0xb4000078a64b0610
+[9:55:31 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a646df50 count: 2
+[9:55:31 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a646df50
+[9:55:31 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b3190 count: 2
+[9:55:31 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b3190
+[9:55:31 PM]: <== I/SurfaceControl(23409): nativeRelease 0xb4000078a64b1e10 count: 2
+[9:55:31 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64b1e10
+[9:55:31 PM]: <== I/SurfaceControl(23409): ~SurfaceControl 0xb4000078a64a3a10
+[9:55:31 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 1
+[9:55:31 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[10:00:33 PM]: <== D/FrameAwareSched(23409): uboost uirescue, event = 0
+[10:01:21 PM]: ==> [{"id":"27","method":"app.stop","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b"}}]
+[10:01:21 PM]: <== Application finished.
+[10:01:21 PM]: <== [{"id":"27","result":true}]
+[10:01:21 PM]: <== [{"event":"app.stop","params":{"appId":"9853c2a2-c62a-4023-a258-c4e5a8521f5b"}}]
